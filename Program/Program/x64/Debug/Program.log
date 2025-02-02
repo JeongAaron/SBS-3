@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\lovej\Desktop\SBS-3\Program\Source.cpp(23,12): warning C4101: 'intList' :참조되지 않은 지역 변수입니다.
+  Program.vcxproj -> C:\Users\lovej\Desktop\SBS-3\Program\x64\Debug\Program.exe
