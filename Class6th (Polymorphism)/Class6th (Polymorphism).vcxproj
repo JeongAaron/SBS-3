@@ -24,6 +24,7 @@
     <ProjectGuid>{c108b929-a329-4b05-8e47-315a80619052}</ProjectGuid>
     <RootNamespace>Class6thPolymorphism</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Class06th (Polymorphism)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

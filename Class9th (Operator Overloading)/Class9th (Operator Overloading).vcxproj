@@ -24,6 +24,7 @@
     <ProjectGuid>{80737c97-0ed7-4e16-8574-c9d5200d9573}</ProjectGuid>
     <RootNamespace>Class9thOperatorOverloading</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Class09th (Operator Overloading)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

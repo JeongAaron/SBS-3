@@ -24,6 +24,7 @@
     <ProjectGuid>{9c8db829-f9e4-4cfb-9013-e5c4afab22d1}</ProjectGuid>
     <RootNamespace>Class4thShallowCopyDeepCopy</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Class04th (Shallow Copy &amp; Deep Copy)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

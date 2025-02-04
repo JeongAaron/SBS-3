@@ -24,6 +24,7 @@
     <ProjectGuid>{5b330f86-0690-4ae7-bd5b-a0f5b7f76c78}</ProjectGuid>
     <RootNamespace>Class7thVirtualFunction</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Class07th (Virtual Function)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

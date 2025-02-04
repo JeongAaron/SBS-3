@@ -24,6 +24,7 @@
     <ProjectGuid>{4d8db234-cf29-4c05-9dc9-1938b7ecd135}</ProjectGuid>
     <RootNamespace>Class3thConstructorDestructor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Class03th (Constructor &amp; Destructor)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
